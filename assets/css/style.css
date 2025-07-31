@@ -156,6 +156,7 @@ article:nth-child(4) {
 }
 
 .card-price--before{
+    text-decoration: line-through;
     font-size: var(--smaller-font-size);
     color: var(--accent-color);
     margin-bottom: .25rem;
